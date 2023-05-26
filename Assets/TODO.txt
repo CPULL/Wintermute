@@ -1,0 +1,35 @@
+﻿********** TODO ****************************************************************************************
+
+Interior: Apartment
+Interior: Shin's
+Interior: Ratz
+Interior: Pawn
+Actor: Food shop
+Actor: Larry
+Actor: Molly
+Actor: Maelcum
+Actor: Armitage
+Interior: Microsofts
+Add Altos Skybox
+Implement option (fullscreen, view overlays, view walk destination, volume, save/load)
+
+
+When doing the cutscene, have a way to force the ballons left/right
+If clicking a ballon in the cutscene, the cutscene should jump to the next part
+
+
+
+********** BUGS ****************************************************************************************
+
+
+
+
+
+********** IDEAS ****************************************************************************************
+
+Add some low-poly hair to be used with actors
+Add some low-poly clothes to be used with actors
+
+
+
+********** DONE ****************************************************************************************

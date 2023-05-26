@@ -1,0 +1,58 @@
+﻿
+
+Start at Chatsubo
+Tutorial (description of the situation, possibility to show controls, button to skip)
+Read news, know about bank and clinic
+Go to bank, become a customer
+Go to clinic, do the trial get 50 credits, discover poison sacs
+Go to chatsubo, pay debt, know about Shin and Zone, get pawn ticket
+Go to old lady, buy food, work for her, get food (gives one day life), get 25 credits
+Go in cheap hotel, spend the night (20 credits for capsule, 50 credits for room)
+Go to Shin, give the ticket, get the deck
+
+
+Work at food old lady to get some coin and food
+Sell organs to get credits
+Chatsubo: You can also ask for somethign else and know that Lonny Zone's girls was looking for you too. You got biz with the Zone?
+
+
+
+
+
+
+
+Part 1 - First experience in Chiba City
+
+
+First, you need to get information.
+Information is the most important thing in this Cyberpunk world, which you belong to now, and you get it in two ways: talk to persons and the news in the PAX system. 
+At the moment you have no computer yet, so it would be a good idea to get yours back.
+
+Use the PAX service in the Chatsubo bar; read all news at the Bulletin Board and in the Night City News.
+These get you some Basic-Comlink-Codes and after that you will also know where your deck is.
+
+
+Furthermore you will read that somebody has your Cryptology Chip and another one trades software against caviar.
+
+
+Send a message in PAX to Armitage with your BAMA number and you will soon own enough money to get through the first parts of the game.
+
+
+Take all your money (12,000 credits) from the bank account (and note down your BAMA number, you will need it often) and pay Ratz the money that you owe him ($46).
+
+
+
+After you have left the Chatsubo, go to the east (the upper rim of the screen is north). There you get to a Body Shop, where you can buy body parts, if you are in a really bad state, but you can bypass this by using save/load. At the opposite there is the Donut World, where there is a cop. Further to the east there is Larry Moe*s Microsofts Store. He will be important in the later course of the game. Instead, go to the Massage Parlor at the corner. The young lady must have found out something from their customers, as she has important information for you at the start of the game.
+
+Now you should save your game, before you question her, as anytime she gives you a hint, you will be arrested, found guilty and sentenced to pay a penalty of $500 - $20.000 (or to death, if you're not groveling at the hearing - so grovel, you worm!!). By the way, any fine will only be deducted from your bank account, so be sure to always carry your cash with you. The lady has five pieces of information for you, so ask her until you die, reload the savegame and continue the game, until you have all the information. She will tell you the link-code and the password for the Panther Moderns and the link-code for the Bank of Zurich – Orbital, give you some hints about the banking and who you should trust and some information about Maas Biolabs.
+
+Next to the Massage Parlor (into the south) there is the Shin's Pawnshop where you can redeem your Pawn Ticket and get your UXB deck back (you do not have to pay for it. Shin will give it to you anyway). This deck is really bad, you need to replace it later, but at the moment it must suffice. Opposite, there is the Cheap Hotel, where you also owe some money and you need to pay your bill, before you can enter. South of the Cheap Hotel there is the Gentleman Loser where a lady named Shiva waits for a conversation with you. Be nice and ask her about CRYPTOLOGY and she will give you a chip. Implant it and you can decode a few simple database passwords.
+
+Now it is time to visit some databases, as they have some uplink-codes due to a favour by Matt Shaw (if not you have not read all messages). But first you should buy the Hardware Repair skill chip by Shiva, as your UXB is notoriously unreliable. Now visit the database of Regular Fellows (Link = REGFELLOW, Pw = VISITOR). Their BBS gives you the level 2 passwords for the Cheap Hotel and Asano Computing and will tell you who you should contact concerning the Japanese Companies. You can download BattleChess 2.0 and Scout 1.0. Then link yourself into the Cheap Hotel (Link = CHEAPO, Pw = COCKROACH) and use the level 2 password; it allows you to edit your bill and delete your debts. Then you can order caviar from the room service, then edit your bill again so your balance is zero. You can now register at the World Chess Federation (Link = WORLDCHESS) and play some games with BattleChess 2.0 (gets you some money). You can also dial level 2 on Asano Computing (after decoding the password) there you find some link-codes.
+
+Now leave the Gentleman Loser and go north to the Cheap Hotel, to fetch the caviar. Then to the east passing the Metro Holografix and in the next screen into the entrance in the south to Crazy Edo's shop. Crazy Edo swaps you Comlink 2.0 for the caviar. Leave the shop and go north to the House of Pong. If you show respect for Nolan, he will instruct you to search for the holy joystick, which you can later swap against Skill Chips. Now go to the Cheap Hotel.
+
+Your UXB deck has only a small memory, therefore now delete Comlink 1.0 and BattleChess 2.0. Log into the database at Panther Moderns (Link = CHAOS, Pw = MAINLINE) and read the news on the BBS. You will find much information now: how you can receive a paycheque without working; who knows about Cryptology, Coptalk, Evasion and Skill Chips; who knows something about the SENSE/NET; who has interesting link-codes; where you should start, if you are ready for the Cyberspace and where you find EasyRider 1.0, a priceless help, to cross zones in the Cyberspace. Send a message to Modern Bob and ask him about SEA and Hitachi Biotech Codes, then read your messages again, he answers straight away. Finally, download ComLink 3.0 into your software library.
+
+The next stop is the Microsofts Store (west, south). Ask Larry about "Coptalk" and buy the chip. Implant it and now you can visit Donut World. When you enter it, activate the chip before you talk to the cop. He will give you the link-code for the Chiba Tactical Police and the encoded passwords for SEA and Fuji. Your Cryptology skill is not sufficient at the moment to decode these passwords. Your next job is to upgrade your skills and get more money. You must buy a Cyberspace-compliant deck and this is not really cheap!
+

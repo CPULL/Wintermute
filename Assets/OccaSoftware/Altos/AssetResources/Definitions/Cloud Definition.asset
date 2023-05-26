@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0e08c78d062f443844ba88369c86ec, type: 3}
+  m_Name: Cloud Definition
+  m_EditorClassIdentifier: 
+  pageSelection: 0
+  lowAltitudeModelingState: 1
+  lowAltitudeLightingState: 1
+  lowAltitudeWeatherState: 1
+  lowAltitudeBaseState: 1
+  lowAltitudeDetail1State: 1
+  lowAltitudeDetail2State: 0
+  lowAltitudeCurlState: 1
+  stepCount: 32
+  blueNoise: 1
+  sunColor: {r: 1, g: 1, b: 1, a: 1}
+  ambientExposure: 1.96
+  cheapAmbientLighting: 1
+  HGEccentricityForward: 0.8
+  HGEccentricityBackward: -0.5
+  HGStrength: 1
+  celestialBodySelection: 0
+  planetRadius: 6378
+  cloudLayerHeight: 0.8
+  cloudLayerThickness: 2.22
+  cloudFadeDistance: 30
+  visibilityKM: 40
+  renderScaleSelection: 1
+  renderScale: 0.5
+  renderInSceneView: 1
+  taaEnabled: 1
+  taaBlendFactor: 0.03
+  depthCullOptions: 1
+  subpixelJitterEnabled: 1
+  castShadowsEnabled: 1
+  screenShadows: 1
+  shadowStrength: 0.863
+  shadowResolution: 1024
+  shadowDistance: 5000
+  extinctionCoefficient: 7
+  maxLightingDistance: 2000
+  multipleScatteringAmpGain: 0.13
+  multipleScatteringDensityGain: 0.024
+  multipleScatteringOctaves: 2
+  cloudiness: 0.53
+  distantCoverageDepth: 20
+  distantCoverageAmount: 0.627
+  heightDensityInfluence: 1
+  cloudinessDensityInfluence: 1
+  curve:
+    <length>k__BackingField: 5
+    m_Loop: 0
+    m_ZeroValue: 0
+    m_Range: 1
+    m_Curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.13328663
+        value: 0.8687515
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.44530788
+        value: 0.8687477
+        inSlope: -0.06897589
+        outSlope: -0.06897589
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.68188107
+        value: 0.5562477
+        inSlope: -1.1651804
+        outSlope: -1.1651804
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.18469217
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0.076533034
+        outSlope: 0.076533034
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.82246655
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  weathermapType: 0
+  weathermapTexture: {fileID: 2800000, guid: 01a9cca8ce58b7c47a94d57196ce5ec5, type: 3}
+  weathermapVelocity: {x: 0, y: 0}
+  weathermapScale: 5
+  baseTextureID: 4
+  baseTextureQuality: 2
+  baseTexture: {fileID: 11700000, guid: 43d9308e7ff5bf24bbdd5c638b5043b9, type: 2}
+  baseTextureScale: {x: 118.6, y: 118.6, z: 118.6}
+  baseTextureTimescale: {x: 0, y: 0, z: 0}
+  detail1TextureID: 3
+  detail1TextureQuality: 1
+  detail1Texture: {fileID: 11700000, guid: 67437704423ab9940abbb4928acd8ecb, type: 2}
+  detail1TextureInfluence: 0.53
+  detail1TextureScale: {x: 250, y: 250, z: 250}
+  detail1TextureTimescale: {x: 0, y: 0, z: 0}
+  detail1TextureHeightRemap: {x: 0, y: 0.97}
+  curlTexture: {fileID: 2800000, guid: 35ce79e62d7f83f469e98f8b126a7da9, type: 3}
+  curlTextureInfluence: 1
+  curlTextureScale: 10
+  curlTextureTimescale: 0
+  highAltExtinctionCoefficient: 1.8
+  highAltCloudiness: 0.47
+  highAltTex1: {fileID: 2800000, guid: 5523415a55da14d4f8906fe5c1ef62a4, type: 3}
+  highAltScale1: {x: 1, y: 1}
+  highAltTimescale1: {x: 0, y: 0}
+  highAltTex2: {fileID: 2800000, guid: 5523415a55da14d4f8906fe5c1ef62a4, type: 3}
+  highAltScale2: {x: 5, y: 5}
+  highAltTimescale2: {x: 0, y: 0}
+  highAltTex3: {fileID: 2800000, guid: 5523415a55da14d4f8906fe5c1ef62a4, type: 3}
+  highAltScale3: {x: 10, y: 10}
+  highAltTimescale3: {x: 0, y: 0}
